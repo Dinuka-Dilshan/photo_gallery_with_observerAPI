@@ -1,0 +1,19 @@
+.search-wrapper{
+    position: fixed;
+    bottom: 3%;
+    right: 2%;
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 3.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #A43DA1;
+    color: white;
+    z-index: 50;
+}
+
+.search-wrapper:hover{
+    color: rgb(206, 205, 205);
+}
+

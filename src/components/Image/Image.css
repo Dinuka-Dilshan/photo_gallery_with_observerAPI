@@ -1,0 +1,17 @@
+.image-download-btn-wrapper {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 3rem;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 5%;
+  right: 4%;
+}
+
+.image-download-btn-wrapper:hover {
+  background-color: #f6b1f3;
+  
+}
